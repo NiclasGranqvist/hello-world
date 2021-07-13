@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(void){
-  priontf("Hello world!");
+  priontf("Hello world!"); /* Trivial edit */
 }
